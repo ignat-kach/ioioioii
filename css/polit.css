@@ -1,0 +1,174 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+}
+.page {
+    background-color: #7700D1;
+}
+.header {
+    display: flex;
+    width: 1170px;
+    margin: 0 auto;
+    align-items: center;
+    height: 100px;
+}
+.header__nav-list  {
+    display: flex;
+    width: 330px;
+    justify-content: space-between;
+    list-style: none;
+}
+.header__contact-number {
+    color: #ffffff;
+}
+.header__nav-link {
+    color: #ffffff;
+}
+.header__wrapper-logo {
+    margin-left: 145px;
+    margin-right: 100px;
+}
+.wdefrg {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.logo-img1 {
+    height: 100px;
+}
+.wdefrg {
+    width: 137px;
+    height: 36px;
+
+}
+
+.dfghnbvc {
+    height: 3200px;
+    width: 100%;
+    background-color: #7700D1;
+}
+.header__logo-img {
+    height: 120px;
+    width: 220px;
+}
+.header__container-contacts {
+    display: flex;
+}
+.header__nav-list {
+    height: 30px;
+    align-items: center;
+}
+.header__nav-list-item {
+    font-size: 15px;
+}
+.header {
+    height: 120px;  
+}
+.header__contact-number {
+    width: 223px;
+    height: 50px;
+    font-size: 24px;
+}
+.header__contact-time {
+    font-size: 18px;
+}
+.social-icons {
+    margin-left: 26px;
+}
+.dpfogjbn {
+    width: 1170px;
+    margin: 0 auto;
+    padding-bottom: 130px;
+}
+.dpfogjbn h1 {
+    margin-top: 63px;
+    font-size: 46px;
+    color: white;
+    text-align: center;
+}
+.ytgfvgy {
+    margin-top: 58px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold
+}
+.trfdcvghytgfghytgfv {
+    font-size: 20px;
+    color: white;
+    margin-top: 40px;
+}
+.footer {
+    background-color: #ffffff;
+    width: 100%;
+    height: 171px;
+}
+.footer__wrapper {
+    width: 1170px;
+    height: 70px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+.footer__wrapper-info-owner {
+    width: 256px;
+    height: 47px;
+    padding-top: 80px;
+    color: plum;
+    padding-left: 20px;
+}
+.footer__wrapper-privacy {
+    width: 237px;
+    height: 67px;
+    margin-left: 260px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.footer__container-text {
+    display: flex;
+}
+.c3 img {
+    margin-left: 30px
+}
+.logo-img1 {
+    height: 100px;
+}
+.cartinca {
+    margin-top: -250px;
+}
+.footer__container-contacts {
+    display: flex;
+    color: #7700D1;
+    margin-top: 50px;
+}
+.contact-number {
+    width: 223px;
+    height: 50px;
+    font-size: 24px;
+}
+.contact-time {
+    font-size: 16px;
+}
+.about-me__title {
+   margin-left: 500px;
+}
+.kjhgvbnjuh {
+    margin-left: 128px;
+    margin-top: -30px;
+}
+.uytgfvbhjuygfvb {
+    position: absolute;
+    margin-left: 465px;
+    margin-top: -380px;
+}
+.kiuygvbkiuhgv {
+    margin-left: 1360px;
+    margin-top: -320px;
+}
+.logo-link {
+    margin-top: 50px;
+}
+.uytfdc {
+    margin-top: 10px;
+}
